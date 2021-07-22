@@ -1,0 +1,7 @@
+git add -A
+git commit -m "messages"
+git log
+git diff
+git remote add origin {url}
+git status
+git push origin master
