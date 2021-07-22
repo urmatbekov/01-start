@@ -1,1 +1,1 @@
-I am file B
+I am file B.
